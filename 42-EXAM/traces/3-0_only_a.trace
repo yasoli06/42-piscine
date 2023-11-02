@@ -1,0 +1,13 @@
+only_a/only_a.c:17:12: warning: incompatible integer to pointer conversion passing 'int' to parameter of type 'const void *' [-Wint-conversion]
+        write (1, 'a', 1);
+                  ^~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/unistd.h:496:39: note: passing argument to parameter '__buf' here
+ssize_t  write(int __fd, const void * __buf, size_t __nbyte) __DARWIN_ALIAS_C(write);
+                                      ^
+1 warning generated.
+
+a-------
+a-------
+a-------
+a-------
+a-------

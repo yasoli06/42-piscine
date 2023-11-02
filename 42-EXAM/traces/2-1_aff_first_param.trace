@@ -1,0 +1,13 @@
+aff_first_param/aff_first_param.c:19:4: warning: relational comparison result unused [-Wunused-comparison]
+        i > 0;
+        ~~^~~
+1 warning generated.
+
+vincent$
+vincent-------
+dubO a POIL$
+dubO a POIL-------
+zz sent le poney$
+zz sent le poney-------
+AAAAaaaaaaaaAa$
+AAAAaaaaaaaaAa-------
